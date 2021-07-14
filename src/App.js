@@ -10,10 +10,11 @@ function App() {
 const name = "Austine Gwa"
   return (
     <div className="App">
-     
-     <Header />
+    
       <h1>Hello from react </h1>
       <h3>Mr, {name}</h3>
+
+      <Header />
      
     </div>
   )
